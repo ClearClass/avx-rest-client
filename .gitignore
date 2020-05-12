@@ -1,0 +1,11 @@
+# Maven 
+target/
+
+# Eclipse project file
+.settings/
+.classpath
+.project
+
+# output file
+avx_general.sql
+error.log
